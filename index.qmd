@@ -231,6 +231,7 @@ fig.update_layout(
 * Hace 14 mil millones de años ...
 * ... durante el *Big Bang* 
 * Materia, energía, tiempo y espacio.
+
 </font>
 ::::
 
@@ -249,6 +250,7 @@ fig.update_layout(
 * 300,000 años después ...
 * Materia y energía se empiezan a fusionar ...
 * Átomos $\rightarrow$ Moléculas
+
 </font>
 ::::
 
@@ -267,6 +269,7 @@ fig.update_layout(
 * 4 mil millones de años atrás ...
 * en un planeta llamado Tierra ...
 * Las moléculas se combinaron para formar organismos.
+
 </font>
 
 ::::
@@ -285,6 +288,7 @@ fig.update_layout(
 * <font style="font-size:60px;">70,000 años ...</font>
 * <font style="font-size:50px;">Los organismos pertenecientes a las especies *Homo* (*habilis, erectus, neanderthalensis, floresiensis, sapiens*) formaron estructuras mucho más elaboradas llamadas
  **Culturas**.</font>
+ 
 ::::
 
 . . .
@@ -319,16 +323,16 @@ La tierra se formó hace  ~4,500 millones de años.
 
 . . .
 
-![](./figures/homospan.png){width="50%" .lightbox}
+![](./figures/homospan.png){width="50%" fig-align="center" .lightbox}
 
 
 ## Revolución cognitiva ~ 70,000 años.
 
 ::: {layout-ncol=2 layout-valign="bottom"}
 
-![La travesía de los homínidos. <a href="https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg">NordNordWest</a>, Public domain, via Wikimedia Commons](./figures/homo_sapiens_africa.png){width=100% .lightbox}
+![La travesía de los homínidos. <a href="https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg">NordNordWest</a>, Public domain, via Wikimedia Commons.](./figures/homo_sapiens_africa.png){width=100% .lightbox}
 
-![[Decorated cave of Pont d’Arc.](https://whc.unesco.org/en/list/1426/). Inicio del Storytelling (~30,000 años). Author: J Clottes. Copyright: © MCC/DRAC](./figures/Homo_storytelling.jpg){width=80%}
+![[Decorated cave of Pont d’Arc.](https://whc.unesco.org/en/list/1426/). Inicio del Storytelling (~30,000 años). Author: J Clottes. Copyright: © MCC/DRAC.](./figures/Homo_storytelling.jpg){width=80%}
 
 :::
 
@@ -351,7 +355,7 @@ Científica ~500 años.
 ## Años recientes. 
 
 * Durante los últimos cien años el *homo sapiens* ha controlado: hambrunas, plagas, guerras. 
-* Más gente muere por excesos que por escasez; por edad avanzada que por enfermedades; por suicidio que por actos criminales.
+* Más gente muere por excesos que por escasez (p.ej. por edad avanzada que por enfermedades, por demasiada alimentación que por hambruna, por suicidio que por ...).
 * El *homo sapiens* es la única especie que dominia y manipula el planeta entero (y sus alrededores).
 * ¿Se puede imaginar un ser superior al *homo sapiens*?
 
@@ -372,7 +376,7 @@ Científica ~500 años.
 ::: {.columns}
 ::: {.column width="70%"}
 
-> <font color="Khaki" style="font-size:40px;">"Somos la primera especie que debe demostrar a las máquinas que no es un robot", Juan Villoro.</font>
+> <font color="Khaki" style="font-size:40px;">*Somos la primera especie que debe demostrar a las máquinas que no es un robot*</font>, Juan Villoro.
 
 :::
 ::: {.column width="30%"}
@@ -418,7 +422,7 @@ Científica ~500 años.
 > * <font color="Khaki" style="font-size:35px;">Ante la amenaza de un mamut, los antiguos homínidos se ponían de acuerdo, pues era un asunto de vida o muerte.</font>
 * <font color="Khaki" style="font-size:35px;">Incrementaron la habilidad cognitiva por medio de la vida social.</font>
 * <font color="Khaki" style="font-size:35px;">El ejercicio colectivo de la inteligencia depende de fraguar consensos y convencer al prójimo, [David Roboson](https://www.google.com.mx/books/edition/The_Intelligence_Trap/zyRmwgEACAAJ?hl=en).</font>
-* <font color="Khaki" style="font-size:35px;">Pablo Rudomín distingue entre inteligencia individual e inteligencia social; la segunda va en decaimiento.</font>
+* <font color="Khaki" style="font-size:35px;">[Pablo Rudomín](https://es.wikipedia.org/wiki/Pablo_Rudom%C3%ADn) distingue entre inteligencia individual e inteligencia social; la segunda va en decaimiento.</font>
 :::
 
 :::{.r-stack}
@@ -440,22 +444,22 @@ Científica ~500 años.
 ::: {.incremental}
 
 > * <font color="Khaki" style="font-size:35px;">El panorama empeora al hacer otra comparación: el CI decae al tiempo que la inteligencia artificial mejora. </font>
-* <font color="Khaki" style="font-size:35px;">Geoffrey Hinton dimitió de su cargo directivo en Google [...] puso en práctica una virtud humana cada vez más rara: el arrepentimiento. </font>
+* <font color="Khaki" style="font-size:35px;">[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) dimitió de su cargo directivo en Google [...] puso en práctica una virtud humana cada vez más rara: el arrepentimiento. </font>
 
 * <font style="font-size:35px;">[P(doom)](https://en.wikipedia.org/wiki/P(doom)): probabilidad de resultados existencialmente catastróficos como resultado de la inteligencia artificial.</font>
 
-* <font style="font-size:35px;">[P(doom): la ecuación del apocalipsis digital](https://forbes.com.mx/pdoom-la-ecuacion-del-apocalipsis-digital/). Rubén Vázquez, Julio 2024. </font>
+* <font style="font-size:35px;">[P(doom): la ecuación del apocalipsis digital](https://forbes.com.mx/pdoom-la-ecuacion-del-apocalipsis-digital/). Rubén Vázquez (2024). </font>
 :::
 
 ## Política y ética.
 
 . . .
 
-> <font color="Khaki" style="font-size:35px;">A la relación que mantienen los animales humanos, como tú y como yo, con los otros animales humanos, lo llamamos política. [...] al modo en que lo hacemos lo llamamos ética. David Pastor Vico.</font>
+> <font color="Khaki" style="font-size:35px;">*A la relación que mantienen los animales humanos, como tú y como yo, con los otros animales humanos, lo llamamos política. [...] al modo en que lo hacemos lo llamamos ética*.</font> David Pastor Vico.
 
 . . .
 
-> <font color="Khaki" style="font-size:35px;">Borges dice que toda la cultura proviene de un peculiar invento griego: la conversación [...] intercambiar palabras sin rumbo fijo, aceptar las curiosidades y opiniones del otro, aplazar las certezas, admitir las dudas. De ahí proviene todo lo demás. Juan Villoro</font>
+> <font color="Khaki" style="font-size:35px;">*Toda la cultura proviene de un peculiar invento griego: la conversación [...] intercambiar palabras sin rumbo fijo, aceptar las curiosidades y opiniones del otro, aplazar las certezas, admitir las dudas*.</font> J. Borges de acuerdo con Juan Villoro.
 
 
 
@@ -505,13 +509,17 @@ Científica ~500 años.
 
 . . .
 
-> <font color="Khaki" style="font-size:35px;">Una buena historia: Genera emociones, Facilita la memoria, Ayuda a dar sentido a la información, Crea empatía con personajes o situaciones.
+> <font color="Khaki" style="font-size:35px;">Una buena historia:</font> <font style="font-size:35px;">genera emociones, facilita la memoria, ayuda a dar sentido a la información, crea empatía con personajes o situaciones.</font>
 
-</font>
+
 
 ## Storytelling with data.
 
+. . .
+
 El **storytelling es un diferenciador** y no solo un decorado sobre gráficas.
+
+. . .
 
 Puntos importantes:
 
@@ -534,11 +542,11 @@ Puntos importantes:
 
 |   |   |
 |---|:---|
-|**Exposición** (Introducción) | Se presentan los personajes, el escenario y el conflicto central|
-| **Acción ascendente** (Complicación)| La tensión aumenta a medida que el protagonista se enfrenta a complicaciones y obstáculos.|
-| **Clímax** (Momento crucial)| El punto culminante y de mayor impacto emocional, a menudo un punto de no retorno para el protagonista.|
-| **Acción descendente** (Disminuye la tensión)| Las consecuencias del clímax comienzan a desarrollarse.|
-| **Desenlace** (Catástrofe/Resolución)| La resolución final del conflicto. En la tragedia clásica, suele ser la caída o muerte del protagonista. |
+|<font color="Khaki">**Exposición**</font> (Introducción) | Se presentan los personajes, el escenario y el conflicto central|
+|<font color="Khaki">**Acción ascendente**</font> (Complicación)| La tensión aumenta a medida que el protagonista se enfrenta a complicaciones y obstáculos.|
+|<font color="Khaki">**Clímax**</font> (Momento crucial)| El punto culminante y de mayor impacto emocional, a menudo un punto de no retorno para el protagonista.|
+|<font color="Khaki">**Acción descendente**</font> (Disminuye la tensión)| Las consecuencias del clímax comienzan a desarrollarse.|
+|<font color="Khaki">**Desenlace**</font> (Catástrofe/Resolución)| La resolución final del conflicto. En la tragedia clásica, suele ser la caída o muerte del protagonista. |
 
 </font>
 
@@ -561,9 +569,9 @@ fig.show()
 
 **"¿Qué tiene que ver esto contigo?"**
 
-> *Exposición con tensión inmediata*
+> *Exposición con tensión inmediata*.
 
-**Objetivo narrativo:** Anclar el problema global en algo local e íntimo. 
+**Objetivo narrativo:** anclar el problema global en algo local e íntimo. 
 
 * No empezar con *"el mundo enfrenta…"* sino con un dato que golpee: *"En tu colonia, 85% de los hogares…"*
 
@@ -571,9 +579,9 @@ fig.show()
 
 **"¿Qué tan grave es?"**
 
-> *Rising action: mostrar cómo empeora el asunto*
+> *Rising action: mostrar cómo empeora el asunto*.
 
-**Objetivo narrativo:** Construir tensión con datos temporales. 
+**Objetivo narrativo:** construir tensión con datos dependientes del tiempo. 
 
 * El público debe sentir que el tiempo se acaba.
 
@@ -581,9 +589,9 @@ fig.show()
 
 **"El momento de la verdad"**
 
-> *La gráfica que cambia todo*
+> *La gráfica que cambia todo*.
 
-**Objetivo narrativo:** Una visualización que condensa la paradoja o la injusticia central. 
+**Objetivo narrativo:** una visualización que condensa la paradoja o la injusticia central. 
 
 * Debe ser la imagen que el público recuerde al cerrar el tablero.
 
@@ -591,44 +599,46 @@ fig.show()
 
 **"Pero no todo está perdido"**
 
-> *Falling action: mostrar casos de éxito locales reales*
+> *Falling action: mostrar casos de éxito locales reales*.
 
-**Objetivo narrativo:** Romper el pesimismo con evidencia.
+**Objetivo narrativo:** romper el pesimismo con evidencia.
 
-* No usar promesas institucionales, sino con datos de comunidades que sí lo lograron y mostrar *cómo*.
+* No usar promesas institucionales, sino con datos, mostrar las acciones de comunidades que están haciendo el esfuerzo (y que probablemente van mejorando), además de mostrar *cómo*.
 
 ## Acto 5 — La Resolución 
 
-**"Tú puedes ser parte"**
+**"Tú puedes ser parte del cambio"**
 
-> *Llamado a la acción basado en datos*
+> *Llamado a la acción basado en datos*.
 
-**Objetivo narrativo:** El tablero termina con una pregunta abierta, no con una conclusión cerrada. 
+**Objetivo narrativo:** el tablero termina con una pregunta abierta, no con una conclusión cerrada. 
 
 * El público debe sentir que tiene poder de actuar, que no es un espectador pasivo sino alguien cuyas decisiones o acciones importan.
 
-## Comentarios finales. {.scrollable}
+## Comentarios adicionales.
 
 * Lo anterior se basa en el diseño de videojuegos, donde la acción del jugador es fundamental: 
     - el jugador siente que sus elecciones tienen consecuencias reales dentro del mundo del juego. 
-* Los mejores tableros de datos hacen lo mismo, convierten al público en protagonista, no en audiencia.
+* Los mejores tableros de datos hacen lo mismo, convierten al público en protagonista, no solo en audiencia.
 
-## Comentarios finales. {.scrollable}
+## Comentarios adicionales. 
 
 * En el contexto del tablero de ODS, significa que al terminar de ver los datos, el usuario no piensa *"qué triste, qué problema tan grande"* y cierra la pestaña, sino que piensa *"yo puedo hacer algo al respecto"*.
 
-* Es lo contrario de la parálisis por análisis o el llamado **doom scrolling**: cuando los datos son tan abrumadores que en lugar de motivar, paralizan.
+* Es lo contrario de la parálisis por análisis (***doom scrolling***): cuando los datos son tan abrumadores que en lugar de motivar, paralizan.
 
 ## En resumen.
 
 * Aplica la pirámide de Freytag (hasta donde sea posible).
-* Terminar con una pregunta abierta en lugar de una conclusión cerrada.
-* Mostrar casos donde comunidades pequeñas sí lograron cambios reales.
-* Incluir una calculadora de impacto donde el usuario experimenta con variables.
+* Termina con una pregunta abierta en lugar de una conclusión cerrada.
+* Muestra casos donde comunidades pequeñas están logrando cambios reales.
+* Trata de incluir una *calculadora de impacto* donde el usuario experimente con variables.
 * Que el lenguaje diga "¿qué harías tú?" en lugar de "esto es lo que los gobiernos deben hacer".
 
 
-## Nota sobre divulgación <font style="font-size:40px;">(de Régules, 2024)</font>
+## Notas sobre divulgación <font style="font-size:40px;">(de Régules, 2024)</font>
+
+. . .
 
 > * <font color="Khaki" style="font-size:35px;">Olson et al. sugieren que lo que más les interesa a la mayoría de los seres humanos es lo que les pasa a otros seres humanos.</font>
 * <font color="Khaki" style="font-size:35px;">Una buena divulgación habla de gente e ilustra ideas a través de historias de gente.</font>
