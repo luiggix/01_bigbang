@@ -352,21 +352,21 @@ Científica ~500 años.
 :::
 :::
 
-## Años recientes. 
-
-* Durante los últimos cien años el *homo sapiens* ha controlado: hambrunas, plagas, guerras. 
-* Más gente muere por excesos que por escasez (p.ej. por edad avanzada que por enfermedades, por demasiada alimentación que por hambruna, por suicidio que por ...).
-* El *homo sapiens* es la única especie que domina y manipula el planeta entero (y sus alrededores).
-* ¿Se puede imaginar un ser superior al *homo sapiens*?
 
 ## *Homo deus* {background-color="black" background-image="./figures/homodeus.png" background-size="cover" background-opacity="0.25"}
 
-<br><br>
+::: {.incremental}
 
-. . .
+<font style="font-size:45px;">
 
-:::{.r-stack}
-<font color="Khaki" style="font-size:60px;"> ¿Será que estamos  por terminar con la historia del *homo sapiens* y comenzar algo completamente diferente? </font>
+* El *homo sapiens* es la única especie que domina y manipula el planeta entero (y sus alrededores).
+
+* ¿Se puede imaginar un ser superior al *homo sapiens* sobre la tierra?
+
+*  ¿Será que estamos  por terminar con la historia del *homo sapiens* y comenzar algo completamente diferente? 
+
+</font>
+
 :::
 
 ## ¿Que es lo humano hoy en día? {.scrollable}
@@ -403,27 +403,12 @@ Científica ~500 años.
 
 ##  El efecto Flyn: debut y despedida.
 
-::: {.incremental}
+. . .
 
 > * <font color="Khaki" style="font-size:35px;">[James Flyn](https://en.wikipedia.org/wiki/James_Flynn_(academic)) estudió la evolución de la inteligencia humana y se basó en tests del cociente intelectual (CI).</font>
 * <font color="Khaki" style="font-size:35px;">El CI de la humanidad creció en 30 puntos en algunos países durante el siglo XX.</font>
 * <font color="Khaki" style="font-size:35px;">***Efecto Flyn***: aumento sostenido de la inteligencia.</font>
 * <font color="Khaki" style="font-size:35px;"> Flyn murió en diciembre de 2020, justo cuando se descubrió que la capacidad cognitiva estaba disminuyendo.</font>
-:::
-
-:::{.r-stack}
-(Villoro, J., 2024)
-:::
-
-## ¿Por qué?
-
-::: {.incremental}
-
-> * <font color="Khaki" style="font-size:35px;">Ante la amenaza de un mamut, los antiguos homínidos se ponían de acuerdo, pues era un asunto de vida o muerte.</font>
-* <font color="Khaki" style="font-size:35px;">Incrementaron la habilidad cognitiva por medio de la vida social.</font>
-* <font color="Khaki" style="font-size:35px;">El ejercicio colectivo de la inteligencia depende de fraguar consensos y convencer al prójimo, [David Roboson](https://www.google.com.mx/books/edition/The_Intelligence_Trap/zyRmwgEACAAJ?hl=en).</font>
-* <font color="Khaki" style="font-size:35px;">[Pablo Rudomín](https://es.wikipedia.org/wiki/Pablo_Rudom%C3%ADn) distingue entre inteligencia individual e inteligencia social; la segunda va en decaimiento.</font>
-:::
 
 :::{.r-stack}
 (Villoro, J., 2024)
@@ -439,17 +424,22 @@ Científica ~500 años.
 * <font color="Khaki" style="font-size:35px;">[David Robson](https://www.bbc.com/future/author/david-robson) : a partir de los 90 el CI desciende a un ritmo de 0.2 puntos al año en Finlandia, Noruega y Dinamarca [BBC Future](https://www.bbc.com/future/article/20190709-has-humanity-reached-peak-intelligence).</font>
 * <font color="Khaki" style="font-size:35px;">[Will Conaway](): *La tecnología aumenta mientras el CI declina*, Forbes.</font>
 
-## El fin de la inteligencia.
- 
-::: {.incremental}
+## ¿Por qué?
 
-> * <font color="Khaki" style="font-size:35px;">El panorama empeora al hacer otra comparación: el CI decae al tiempo que la inteligencia artificial mejora. </font>
-* <font color="Khaki" style="font-size:35px;">[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) dimitió de su cargo directivo en Google [...] puso en práctica una virtud humana cada vez más rara: el arrepentimiento. </font>
+. . .
 
-* <font style="font-size:35px;">[P(doom)](https://en.wikipedia.org/wiki/P(doom)): probabilidad de resultados existencialmente catastróficos como resultado de la inteligencia artificial.</font>
+> * <font color="Khaki" style="font-size:33px;">Ante la amenaza de un mamut, los antiguos homínidos se ponían de acuerdo, pues era un asunto de vida o muerte. La vida social les permitió aumentar su capacidad cognitiva.</font>
+* <font color="Khaki" style="font-size:33px;">[Pablo Rudomín](https://es.wikipedia.org/wiki/Pablo_Rudom%C3%ADn) distingue entre inteligencia individual e inteligencia social; la segunda va en decaimiento.</font>
+> * <font color="Khaki" style="font-size:33px;">El panorama empeora al hacer otra comparación: el CI decae al tiempo que la inteligencia artificial mejora. </font>
 
-* <font style="font-size:35px;">[P(doom): la ecuación del apocalipsis digital](https://forbes.com.mx/pdoom-la-ecuacion-del-apocalipsis-digital/). Rubén Vázquez (2024). </font>
+:::{.r-stack}
+<font style="font-size:33px;">(Villoro, J., 2024)</font>
 :::
+
+. . .
+
+<font style="font-size:30px;">[P(doom)](https://en.wikipedia.org/wiki/P(doom)): probabilidad de resultados existencialmente catastróficos como resultado de la inteligencia artificial.</font>
+
 
 ## Política y ética.
 
@@ -617,17 +607,21 @@ fig.show()
 
 ## Comentarios adicionales.
 
-* Lo anterior se basa en el diseño de videojuegos, donde la acción del jugador es fundamental: 
-    - el jugador siente que sus elecciones tienen consecuencias reales dentro del mundo del juego. 
-* Los mejores tableros de datos hacen lo mismo, convierten al público en protagonista, no solo en audiencia.
+<font style="font-size:35px;">
 
-## Comentarios adicionales. 
+* Lo anterior se basa en el diseño de videojuegos, donde la acción del jugador es fundamental.
+
+* Los mejores tableros de datos hacen lo mismo, convierten al público en protagonista, no solo en audiencia.
 
 * En el contexto del tablero de ODS, significa que al terminar de ver los datos, el usuario no piensa *"qué triste, qué problema tan grande"* y cierra la pestaña, sino que piensa *"yo puedo hacer algo al respecto"*.
 
 * Es lo contrario de la parálisis por análisis (***doom scrolling***): cuando los datos son tan abrumadores que en lugar de motivar, paralizan.
 
+</font>
+
 ## En resumen.
+
+<font style="font-size:35px;">
 
 * Aplica la pirámide de Freytag (hasta donde sea posible).
 * Termina con una pregunta abierta en lugar de una conclusión cerrada.
@@ -635,25 +629,22 @@ fig.show()
 * Trata de incluir una *calculadora de impacto* donde el usuario experimente con variables.
 * Que el lenguaje diga "¿qué harías tú?" en lugar de "esto es lo que los gobiernos deben hacer".
 
+</font>
+
 
 ## Notas sobre divulgación <font style="font-size:40px;">(de Régules, 2024)</font>
 
 . . .
 
-> * <font color="Khaki" style="font-size:35px;">Olson et al. sugieren que lo que más les interesa a la mayoría de los seres humanos es lo que les pasa a otros seres humanos.</font>
-* <font color="Khaki" style="font-size:35px;">Una buena divulgación habla de gente e ilustra ideas a través de historias de gente.</font>
-* <font color="Khaki" style="font-size:35px;">Idealmente, la divulgación se basa en técnicas de la escritura literaria.</font>
-* <font color="Khaki" style="font-size:35px;">*creative nonfiction*: historias reales bien contadas.</font>
-* <font color="Khaki" style="font-size:35px;">La divulgación no es ciencia.</font>
+>* <font color="Khaki" style="font-size:32px;">Una buena divulgación [...] ilustra ideas a través de historias de gente [...] se basa en técnicas de la escritura literaria.</font>
+* <font color="Khaki" style="font-size:32px;">*creative nonfiction*: historias reales bien contadas.</font>
 
-## Buena divulgación <font style="font-size:40px;">(de Régules, 2024)</font>
+. . . 
 
-> * <font color="Khaki" style="font-size:35px;">Cuidan el estilo.</font>
-* <font color="Khaki" style="font-size:35px;">Complementan los resultados científicos con anécdotas.</font>
-* <font color="Khaki" style="font-size:35px;">Se organizan como argumento lógicos o bien como narraciones.</font>
-* <font color="Khaki" style="font-size:35px;">Evitan acomplejar al lector esquivando discretamente el lenguaje técnico.</font>
-* <font color="Khaki" style="font-size:35px;">No suenan a artículos científicos.</font>
-* <font color="Khaki" style="font-size:35px;">Revelan una voz propia y original.</font>
+Buena divulgación:
+
+> * <font color="Khaki" style="font-size:32px;">Cuidan el estilo y complementan los resultados científicos con anécdotas, se organizan como argumentos lógicos y/o narraciones.</font>
+* <font color="Khaki" style="font-size:32px;">Evitan acomplejar al lector esquivando discretamente el lenguaje técnico y no suenan a artículos científicos.</font>
 
 
 ##  Referencias.
