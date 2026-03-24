@@ -356,7 +356,7 @@ Científica ~500 años.
 
 * Durante los últimos cien años el *homo sapiens* ha controlado: hambrunas, plagas, guerras. 
 * Más gente muere por excesos que por escasez (p.ej. por edad avanzada que por enfermedades, por demasiada alimentación que por hambruna, por suicidio que por ...).
-* El *homo sapiens* es la única especie que dominia y manipula el planeta entero (y sus alrededores).
+* El *homo sapiens* es la única especie que domina y manipula el planeta entero (y sus alrededores).
 * ¿Se puede imaginar un ser superior al *homo sapiens*?
 
 ## *Homo deus* {background-color="black" background-image="./figures/homodeus.png" background-size="cover" background-opacity="0.25"}
@@ -405,7 +405,7 @@ Científica ~500 años.
 
 ::: {.incremental}
 
-> * <font color="Khaki" style="font-size:35px;">James Flyn estudió la evolución de la inteligencia humana y se basó en tests del cociente intelectual (CI).</font>
+> * <font color="Khaki" style="font-size:35px;">[James Flyn](https://en.wikipedia.org/wiki/James_Flynn_(academic)) estudió la evolución de la inteligencia humana y se basó en tests del cociente intelectual (CI).</font>
 * <font color="Khaki" style="font-size:35px;">El CI de la humanidad creció en 30 puntos en algunos países durante el siglo XX.</font>
 * <font color="Khaki" style="font-size:35px;">***Efecto Flyn***: aumento sostenido de la inteligencia.</font>
 * <font color="Khaki" style="font-size:35px;"> Flyn murió en diciembre de 2020, justo cuando se descubrió que la capacidad cognitiva estaba disminuyendo.</font>
