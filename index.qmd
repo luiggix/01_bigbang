@@ -223,7 +223,7 @@ fig.update_layout(
 
 # Génesis {background-color="black" background-image="./figures/fire.jpg" background-size="cover" background-opacity="0.95"}
 
-## En el principio {background-color="black" background-image="./figures/fire.jpg" background-size="cover" background-opacity="0.25"}
+## En el principio {background-color="black" background-image="./figures/fire.jpg" background-size="cover" background-opacity="0.85"}
 
 ::::{.incremental}
 <font style="font-size:60px;">
@@ -242,7 +242,7 @@ fig.update_layout(
 :::
 
 
-## Enseguida {background-color="black" background-image="./figures/atoms_into.jpg" background-size="cover" background-opacity="0.25"}
+## Enseguida {background-color="black" background-image="./figures/atoms_into.jpg" background-size="cover" background-opacity="0.75"}
 
 ::::{.incremental}
 <font style="font-size:60px;">
@@ -261,7 +261,7 @@ fig.update_layout(
 :::
 
 
-## Y luego {background-color="black" background-image="./figures/In_a_planet_called_Earth.jpg" background-size="cover" background-opacity="0.25"}
+## Y luego {background-color="black" background-image="./figures/In_a_planet_called_Earth.jpg" background-size="cover" background-opacity="0.65"}
 
 ::::{.incremental}
 <font style="font-size:60px;">
@@ -281,13 +281,14 @@ fig.update_layout(
 :::
 
 
-## No hace mucho {background-color="black" background-image="./figures/homo_sapiens_village.jpg" background-size="cover" background-opacity="0.25"}
+## No hace mucho {background-color="black" background-image="./figures/homo_sapiens_village.jpg" background-size="cover" background-opacity="0.45"}
 
 ::::{.incremental}
 
 * <font style="font-size:60px;">70,000 años ...</font>
-* <font style="font-size:50px;">Los organismos pertenecientes a las especies *Homo* (*habilis, erectus, neanderthalensis, floresiensis, sapiens*) formaron estructuras mucho más elaboradas llamadas
- **Culturas**.</font>
+* <font style="font-size:50px;">Una especie de organismos complejos, conocidos como *homo sapiens* formaron estructuras mucho más elaboradas ... </font>
+
+    - <font style="font-size:50px;">**Culturas**.</font>
  
 ::::
 
@@ -297,7 +298,7 @@ fig.update_layout(
 <font color="Goldenrod" style="font-size:80px;"> Historia </font>
 :::
 
-## Regresemos un poco {background-color="black" background-image="./figures/Milky_Way.jpg" background-size="cover" background-opacity="0.25"}
+## Regresemos un poco {background-color="black" background-image="./figures/Milky_Way.jpg" background-size="cover" background-opacity="0.85"}
 
 . . .
 
@@ -353,11 +354,11 @@ Científica ~500 años.
 :::
 
 
-## *Homo deus* {background-color="black" background-image="./figures/homodeus.png" background-size="cover" background-opacity="0.25"}
+## *Homo deus* {background-color="black" background-image="./figures/homodeus.png" background-size="cover" background-opacity="0.5"}
 
 ::: {.incremental}
 
-<font style="font-size:45px;">
+<font color="Azure" style="font-size:45px;">
 
 * El *homo sapiens* es la única especie que domina y manipula el planeta entero (y sus alrededores).
 
@@ -405,10 +406,10 @@ Científica ~500 años.
 
 . . .
 
-> * <font color="Khaki" style="font-size:35px;">[James Flyn](https://en.wikipedia.org/wiki/James_Flynn_(academic)) estudió la evolución de la inteligencia humana y se basó en tests del cociente intelectual (CI).</font>
-* <font color="Khaki" style="font-size:35px;">El CI de la humanidad creció en 30 puntos en algunos países durante el siglo XX.</font>
-* <font color="Khaki" style="font-size:35px;">***Efecto Flyn***: aumento sostenido de la inteligencia.</font>
-* <font color="Khaki" style="font-size:35px;"> Flyn murió en diciembre de 2020, justo cuando se descubrió que la capacidad cognitiva estaba disminuyendo.</font>
+> * <font color="Khaki" style="font-size:40px;">[James Flyn](https://en.wikipedia.org/wiki/James_Flynn_(academic)) estudió la evolución del cociente intelectual (CI).</font>
+* <font color="Khaki" style="font-size:40px;">El CI de la humanidad creció en 30 puntos durante el siglo XX.</font>
+* <font color="Khaki" style="font-size:40px;">***Efecto Flyn***: aumento sostenido de la inteligencia.</font>
+* <font color="Khaki" style="font-size:40px;"> Flyn murió en 2020, justo cuando se descubrió que el CI estaba disminuyendo.</font>
 
 :::{.r-stack}
 (Villoro, J., 2024)
@@ -428,7 +429,8 @@ Científica ~500 años.
 
 . . .
 
-> * <font color="Khaki" style="font-size:33px;">Ante la amenaza de un mamut, los antiguos homínidos se ponían de acuerdo, pues era un asunto de vida o muerte. La vida social les permitió aumentar su capacidad cognitiva.</font>
+> * <font color="Khaki" style="font-size:33px;">Ante una amenaza de vida o muerte, los antiguos homínidos se ponían de acuerdo. </font>
+* <font color="Khaki" style="font-size:33px;">La vida social les permitió aumentar su capacidad cognitiva.</font>
 * <font color="Khaki" style="font-size:33px;">[Pablo Rudomín](https://es.wikipedia.org/wiki/Pablo_Rudom%C3%ADn) distingue entre inteligencia individual e inteligencia social; la segunda va en decaimiento.</font>
 > * <font color="Khaki" style="font-size:33px;">El panorama empeora al hacer otra comparación: el CI decae al tiempo que la inteligencia artificial mejora. </font>
 
@@ -438,7 +440,7 @@ Científica ~500 años.
 
 . . .
 
-<font style="font-size:30px;">[P(doom)](https://en.wikipedia.org/wiki/P(doom)): probabilidad de resultados existencialmente catastróficos como resultado de la inteligencia artificial.</font>
+<font style="font-size:30px;">[P(doom)](https://en.wikipedia.org/wiki/P(doom)): probabilidad de resultados existencialmente catastróficos debidos a la IA.</font>
 
 
 ## Política y ética.
@@ -469,7 +471,6 @@ Científica ~500 años.
 :::
 ::: {.column width="80%" .fragment}
 
-::: {.incremental}
 <font style="font-size:37px;">
 
 * Debemos conocer cómo estamos actualmente.
@@ -478,8 +479,6 @@ Científica ~500 años.
 * Contar historias que entienda [toda nuestra sociedad](https://countrymeters.info/es/World)
 
 </font>
-
-:::
 
 :::
 ::::
@@ -521,9 +520,9 @@ Puntos importantes:
 
 ## La pirámide de Freytag.
 
-* Técnica desarrollada por el dramaturgo alemán Gustav Freytag en 1863.
-* Es un modelo de estructura narrativa de cinco actos que organiza la tensión dramática. 
-* Comúnmente utilizada para analizar tragedias clásicas y shakesperianas.
+* Desarrollada por Gustav Freytag en 1863.
+* Estructura narrativa de cinco actos que organiza la tensión dramática. 
+* Utilizada para analizar tragedias clásicas y shakesperianas.
 * Hoy en día se sigue usando en películas y obras de teatro.
 
 ## Partes de la pirámide.
@@ -552,8 +551,13 @@ fig.show()
 
 ## Filosofía de diseño narrativo
 
-* El tablero **no es una colección de gráficas**, es una historia que el usuario *vive* mientras se desplaza en las diferentes secciones. 
-* Cada sección corresponde a una etapa de la pirámide de Freytag, y la transición entre ellas debe sentirse como un giro emocional, no como un cambio de pestaña.
+* El tablero **no es una colección de gráficas**. 
+    - Es una historia que el usuario *vive* mientras se desplaza en las diferentes secciones. 
+
+. . . 
+
+* Cada sección corresponde a una etapa de la pirámide de Freytag. 
+    - La transición entre ellas debe sentirse como un giro emocional, no como un cambio de pestaña.
 
 ## Acto 1 — El Gancho.
 
